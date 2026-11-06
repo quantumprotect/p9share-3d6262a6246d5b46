@@ -11,6 +11,7 @@ Anyone with this link can download the files below.
 
 ## Archives
 - [Bean 1.1.7.9 full workspace (includes shots)](./panel9-bean-1179-wk-full.tar.gz)
+- [Bean 1.1.7.9 code-only (no shots)](./panel9-bean-1179-wk-code.tar.gz)
 
 ## Markdown sources
 Same names with `.md` next to the PDFs.
